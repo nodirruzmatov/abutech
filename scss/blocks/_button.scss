@@ -1,1 +1,23 @@
 //bu yerda buttonlar yashaydi
+
+.site-btn {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #00094A;
+  border-radius: 3px;
+  border: none;
+}
+
+.site-btn:hover {
+  opacity: 0.8;
+}
+
+.site-btn:active {
+  opacity: 0.4;
+}
